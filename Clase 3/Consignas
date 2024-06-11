@@ -18,3 +18,14 @@ Ej 5.
 - Crear un std::vector para contener objetos de la clase std::string
 - Cargar 5 expresiones idiomáticas, como por ejemplo: pan comido
 - Publicar por consola ordenado alfabéticamente
+
+Ej 6.
+- En un Empty qmake Project
+- Crear una nueva clase (que no sea Persona, ni Cliente, ni Poste). Invente una clase.
+- Agregar uno o más constructores, agregar sus métodos y sus atributos
+- Crear algunos objetos de esta clase en la función main
+
+Ej 7.
+- Empty qmake Project
+- Utilizar la clase creada en el ejercicio anterior para crear objetos y almacenarlos en un `std::vector`
+- ¿Se pueden ordenar? Qué estrategia utilizaría para ordenarlos de menor a mayor
