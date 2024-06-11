@@ -1,0 +1,20 @@
+Consignas.
+
+Ej 1.
+- Instalar Qt. Lo cual incluye las herramientas de compilación C++, la biblioteca Qt y Qt Creator.
+- Crear un primer programa que muestre por la consola de QtCreator 10 números aleatorios en el intervalo [ 2, 20 ]
+- Cada vez que se ejecute el programa, los números deberán ser aleatorios y distintos en cada ejecución.
+
+Ej 3.
+- Elija un nombre para su propio espacio de nombres para todo lo que se haga en este asignatura
+- Luego de elegido el nombre para su namespace, defina una función dentro de ese namespace para devolver el número de versión junto con la fecha de la última actualización de la biblioteca
+
+Ej 4.
+- Crear un std::vector para contener int
+- Cargar 30 valores pseudo aleatorios entre 1 y 15
+- Publicar la moda
+
+Ej 5.
+- Crear un std::vector para contener objetos de la clase std::string
+- Cargar 5 expresiones idiomáticas, como por ejemplo: pan comido
+- Publicar por consola ordenado alfabéticamente
